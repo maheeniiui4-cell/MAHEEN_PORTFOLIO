@@ -20,7 +20,7 @@ portfolio/
 
 1. Profile photo: replace the `photo-placeholder` div in the hero.
 2. CV: save it as `assets/Maheen-Arshad-CV.pdf`.
-3. GitHub username: replace `YOUR-USERNAME` (contact section + footer).
+3. GitHub profile: configured as `maheeniiui4-cell` (contact section + footer).
 4. Project GitHub links: replace each `href="#"`.
 5. Placeholder projects and the design gallery: swap in your real work.
 6. Colours: edit the variables at the top of `style.css`.
